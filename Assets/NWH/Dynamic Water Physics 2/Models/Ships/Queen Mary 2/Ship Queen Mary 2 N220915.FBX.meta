@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: c59194b53a650da4385d4a9cf4864e82
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Object01
+    100002: Object04
+    100004: QM_bassein
+    100006: QM_bassein_water
+    100008: QM_body
+    100010: QM_body01
+    100012: QM_elda_1
+    100014: QM_elda_2
+    100016: QM_elda_3
+    100018: QM_kort
+    100020: QM_l04
+    100022: QM_lodki
+    100024: QM_lodki_blik
+    100026: QM_niz
+    100028: QM_okna
+    100030: QM_okna_peregorodki
+    100032: QM_paluba
+    100034: QM_paluba_doski
+    100036: QM_text
+    100038: QM_truba
+    100040: QM_verh
+    100042: QM_zabor
+    100044: QM_zabor_2
+    100046: QM_zabor_3
+    100048: QM_zad
+    100050: //RootNode
+    100052: Sphere01
+    400000: Object01
+    400002: Object04
+    400004: QM_bassein
+    400006: QM_bassein_water
+    400008: QM_body
+    400010: QM_body01
+    400012: QM_elda_1
+    400014: QM_elda_2
+    400016: QM_elda_3
+    400018: QM_kort
+    400020: QM_l04
+    400022: QM_lodki
+    400024: QM_lodki_blik
+    400026: QM_niz
+    400028: QM_okna
+    400030: QM_okna_peregorodki
+    400032: QM_paluba
+    400034: QM_paluba_doski
+    400036: QM_text
+    400038: QM_truba
+    400040: QM_verh
+    400042: QM_zabor
+    400044: QM_zabor_2
+    400046: QM_zabor_3
+    400048: QM_zad
+    400050: //RootNode
+    400052: Sphere01
+    2100000: QM_body
+    2100002: 24 - Default
+    2100004: QM_truba
+    2100006: QM_elda_1
+    2100008: QM_elda_2
+    2100010: QM_zabor
+    2100012: QM_niz
+    2100014: QM_okna
+    2100016: QM_paluba
+    2100018: QM_bassein
+    2100020: QM_paluba_doski
+    2100022: QM_verh
+    2100024: QM_zad
+    2100026: QM_nos
+    2100028: QM_bassein_water
+    2100030: QM_lodki
+    2100032: QM_lodki_blik
+    2100034: QM_zabor_2
+    2100036: QM_zabor_3
+    2100038: QM_kort
+    2100040: QM_l
+    2100042: No Name
+    2300000: Object01
+    2300002: Object04
+    2300004: QM_bassein
+    2300006: QM_bassein_water
+    2300008: QM_body
+    2300010: QM_body01
+    2300012: QM_elda_1
+    2300014: QM_elda_2
+    2300016: QM_elda_3
+    2300018: QM_kort
+    2300020: QM_l04
+    2300022: QM_lodki
+    2300024: QM_lodki_blik
+    2300026: QM_niz
+    2300028: QM_okna
+    2300030: QM_okna_peregorodki
+    2300032: QM_paluba
+    2300034: QM_paluba_doski
+    2300036: QM_text
+    2300038: QM_truba
+    2300040: QM_verh
+    2300042: QM_zabor
+    2300044: QM_zabor_2
+    2300046: QM_zabor_3
+    2300048: QM_zad
+    2300050: Sphere01
+    3300000: Object01
+    3300002: Object04
+    3300004: QM_bassein
+    3300006: QM_bassein_water
+    3300008: QM_body
+    3300010: QM_body01
+    3300012: QM_elda_1
+    3300014: QM_elda_2
+    3300016: QM_elda_3
+    3300018: QM_kort
+    3300020: QM_l04
+    3300022: QM_lodki
+    3300024: QM_lodki_blik
+    3300026: QM_niz
+    3300028: QM_okna
+    3300030: QM_okna_peregorodki
+    3300032: QM_paluba
+    3300034: QM_paluba_doski
+    3300036: QM_text
+    3300038: QM_truba
+    3300040: QM_verh
+    3300042: QM_zabor
+    3300044: QM_zabor_2
+    3300046: QM_zabor_3
+    3300048: QM_zad
+    3300050: Sphere01
+    4300000: QM_body
+    4300002: QM_okna_peregorodki
+    4300004: QM_truba
+    4300006: QM_elda_1
+    4300008: QM_elda_2
+    4300010: QM_zabor
+    4300012: QM_niz
+    4300014: QM_okna
+    4300016: QM_elda_3
+    4300018: QM_bassein
+    4300020: QM_paluba_doski
+    4300022: QM_verh
+    4300024: QM_paluba
+    4300026: QM_zad
+    4300028: Object04
+    4300030: QM_bassein_water
+    4300032: QM_lodki
+    4300034: QM_lodki_blik
+    4300036: QM_zabor_2
+    4300038: QM_zabor_3
+    4300040: QM_body01
+    4300042: QM_text
+    4300044: QM_kort
+    4300046: Object01
+    4300048: QM_l04
+    4300050: Sphere01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24 - Default
+    second: {fileID: 2100000, guid: aad184355954bd5409a0ea477abe68ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 69a6118490ac71942a0abde1d418e160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_bassein
+    second: {fileID: 2100000, guid: 6eb5708c3f46d8a479f1c65789b150aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_bassein_water
+    second: {fileID: 2100000, guid: 2350b780afd57274690bfa5b8f1d04a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_body
+    second: {fileID: 2100000, guid: b24210e1442f735479fd06a5d1c1df3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_elda_1
+    second: {fileID: 2100000, guid: 9b8aa21b938007d4ea5267680d7f1517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_elda_2
+    second: {fileID: 2100000, guid: dc4b507abe0d46649834c3a0a0f1967c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_kort
+    second: {fileID: 2100000, guid: bcfb7afc9de09ba428e446e8cd3d05b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_l
+    second: {fileID: 2100000, guid: 95bb035926613244584583c6366e1e1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_lodki
+    second: {fileID: 2100000, guid: 2679ec1c9914aa74aa5e7179184e1cbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_lodki_blik
+    second: {fileID: 2100000, guid: 85cf7f535317332469cca70fa1ae2df8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_niz
+    second: {fileID: 2100000, guid: c52bb12181387fd46863ebaebd57da0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_nos
+    second: {fileID: 2100000, guid: a3379fb37598cb14caaf33aea0d5530e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_okna
+    second: {fileID: 2100000, guid: 72d883ae246bd784daeb5bfbec71ef67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_paluba
+    second: {fileID: 2100000, guid: 194e03993b84a8e49b33b8d47aeb9741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_paluba_doski
+    second: {fileID: 2100000, guid: f073b75affd54df4890aa59d938e4060, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_truba
+    second: {fileID: 2100000, guid: 06e0fafcafe80554faf880594f7bdc68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_verh
+    second: {fileID: 2100000, guid: 8bc874a7470e5c843a4b34c533d1871a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_zabor
+    second: {fileID: 2100000, guid: 8f6bed66789e8ff4ca736ade28141f40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_zabor_2
+    second: {fileID: 2100000, guid: 5b3648e89dd68a145937bc7a79ccb6a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_zabor_3
+    second: {fileID: 2100000, guid: 6089ed3f3fea9364b8371f2b46535278, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_zad
+    second: {fileID: 2100000, guid: c36ef1b258542f549a9bff4192be775a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

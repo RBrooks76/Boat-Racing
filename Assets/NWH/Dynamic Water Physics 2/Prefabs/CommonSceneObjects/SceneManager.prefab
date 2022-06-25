@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &119646815984658157
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 119646815984658156}
+  - component: {fileID: 119646817004394623}
+  - component: {fileID: 119646817004394621}
+  - component: {fileID: 1830717739}
+  - component: {fileID: 119646817004394622}
+  - component: {fileID: 6831765062685255741}
+  m_Layer: 0
+  m_Name: SceneManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &119646815984658156
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 119646815984658157}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -184.48459, y: -83.43726, z: 135.45325}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &119646817004394623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 119646815984658157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc64a64f2888b1942b9b64877d834931, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterBased: 0
+  currentVehicleIndex: 0
+  putOtherVehiclesToSleep: 1
+  vehicles:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  vehicleTag: Ship
+  deactivateAll: 0
+--- !u!114 &119646817004394621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 119646815984658157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907294c7523f458dba9b3b3e8955d681, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  requireCameraRotationModifier: 1
+  requireCameraPanningModifier: 1
+  changeCameraButton: {fileID: 0}
+  changeVehicleButton: {fileID: 0}
+--- !u!114 &1830717739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 119646815984658157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c48880c19d04dabb53da07d15024184, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  requireCameraRotationModifier: 1
+  requireCameraPanningModifier: 1
+--- !u!114 &119646817004394622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 119646815984658157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 977b3558370da85488b8199c446577a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &6831765062685255741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 119646815984658157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6484d5b83c996246bec2ae86dc967f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  steeringSlider: {fileID: 0}
+  throttleSlider: {fileID: 0}
+  throttleSlider2: {fileID: 0}
+  throttleSlider3: {fileID: 0}
+  throttleSlider4: {fileID: 0}
+  sternThrusterSlider: {fileID: 0}
+  bowThrusterSlider: {fileID: 0}
+  submarineDepthSlider: {fileID: 0}
+  engineStartStopButton: {fileID: 0}
+  anchorButton: {fileID: 0}
+  changeCameraButton: {fileID: 0}
+  changeShipButton: {fileID: 0}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0968c894b2cd49fbb5dacdb1b4b5f4bb, type: 3}
+  m_Name: Dynamic Water Physics 2 AssetInfo
+  m_EditorClassIdentifier: 
+  assetName: Dynamic Water Physics 2
+  version: 2.6.0
+  upgradeNotesURL: http://dynamicwaterphysics.com/doku.php/UpgradeNotes
+  changelogURL: http://dynamicwaterphysics.com/doku.php/Changelog
+  quickStartURL: http://dynamicwaterphysics.com/doku.php/QuickStart
+  documentationURL: http://dynamicwaterphysics.com/doku.php
+  discordURL: https://discord.gg/59CQGEJ
+  forumURL: https://forum.unity.com/threads/dynamic-water-physics-2-released.704405
+  emailURL: mailto:nwhcoding@gmail.com
+  assetURL: https://assetstore.unity.com/packages/tools/physics/nwh-vehicle-physics-2-166252

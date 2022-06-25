@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NWH.DWP2", "NWH.DWP2.csproj", "{e16814c8-86fd-d76d-6bf5-1e4188b312d6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NWH.Common", "NWH.Common.csproj", "{e7e45d17-a241-3a11-4066-3f3aacf11523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{b70d2745-1fae-50af-50ba-dc5bb2be6caf}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{e16814c8-86fd-d76d-6bf5-1e4188b312d6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e16814c8-86fd-d76d-6bf5-1e4188b312d6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e7e45d17-a241-3a11-4066-3f3aacf11523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e7e45d17-a241-3a11-4066-3f3aacf11523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b70d2745-1fae-50af-50ba-dc5bb2be6caf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b70d2745-1fae-50af-50ba-dc5bb2be6caf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
